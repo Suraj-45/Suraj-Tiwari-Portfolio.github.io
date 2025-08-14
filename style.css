@@ -709,4 +709,22 @@ section{
 
 /*-------------------------------------------------------------------*/
 
+/* Special Note CTA */
+.love-cta{
+    min-height: auto;
+    padding: 2rem 8%;
+}
+
+.love-cta .download{
+    background:var(--primary-bg-color);
+    border-radius:.5rem;
+    text-align:center;
+    box-shadow:0 .5rem 1rem rgba(0,0,0,.1);
+    padding:2rem;
+    margin:1rem auto;
+    max-width: 520px;
+}
+
+/*-------------------------------------------------------------------*/
+
 
